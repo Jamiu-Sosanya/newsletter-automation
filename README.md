@@ -46,3 +46,4 @@ Share updates, case studies, and feature rollouts quickly with stakeholders.
 Keep members engaged with regular updates tailored to the tone of the group.
 
 # Live Demo:
+https://jamiu-sosanya.github.io/newsletter-automation/
